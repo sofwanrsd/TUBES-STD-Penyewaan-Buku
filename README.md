@@ -18,6 +18,7 @@ Data Peminjam  :
 3.	TanggalPinjam
 4.	TanggalKembali
 Cerita : Aplikasi digunakan untuk meminajm sebuah buku dari perpustakaan, yang mana satu buku hanya bisa dipinjam oleh satu orang, jika ada lagi yang ingin meminjam akan di masukan ke dalam waiting list (yang merupakan next dari relation), jika buku sudah dikembalikan maka buku tsb bisa dipinjam lagi dengan status tersedia.
+
 Fitur – Fitur Program :
 1.	Tambah Buku (Insert Buku )
 2.	Tambah Peminjam (Insert Peminjam)
@@ -39,10 +40,12 @@ Fitur – Fitur Program :
 18.	Hitung Child yang tidak memiliki relasi
 19.	Edit relasi dari buku tertentu
 20.	Keluar
+
 Pembagian Tugas :
 List Buku/Perpustakaan – Ahmad Faizal Hanif
 List Peminjam – Sofwan Rosidi
 List Relation – Dikerjakan bersama-sama (Bagi 2)
+
 Spesifikasi Program	:
 1.	createListBuku
 PIC : Faizal

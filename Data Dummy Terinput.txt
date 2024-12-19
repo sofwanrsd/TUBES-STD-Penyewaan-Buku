@@ -1,0 +1,58 @@
+Data Dummy Ber-Relasi
+Data Buku:
+B1 - Bumi, Tere_Liye, Tersedia
+B2 - Komet Minor, Tere_Liye, Tersedia
+B3 - Bulan, Tere_Liye, Tersedia
+B4 - Matahari, Tere_Liye, Tersedia
+B5 - Komet, Tere_Liye, Tersedia
+B6 - Pulang, Tere_Liye, Tersedia
+B7 - Pergi, Tere_Liye, Tersedia
+B8 - Hujan, Tere_Liye, Tersedia
+B9 - Rindu, Tere_Liye, Tersedia
+
+Data Peminjam:
+P1 - Sofwan, 2022-01-01 s/d 2022-01-15
+P2 - Faizal, 2022-02-01 s/d 2022-02-15
+P3 - Alya, 2022-03-01 s/d 2022-03-15
+P4 - Rizky, 2022-04-01 s/d 2022-04-15
+P5 - Luna, 2022-05-01 s/d 2022-05-15
+P6 - Mira, 2022-06-01 s/d 2022-06-15
+P7 - Anto, 2022-07-01 s/d 2022-07-15
+P8 - Nina, 2022-08-01 s/d 2022-08-15
+P9 - Fajar, 2022-09-01 s/d 2022-09-15
+
+Relasi Buku dan Peminjam:
+Buku	Peminjam	Status
+B1	P1	Dipinjam
+B2	P2	Dipinjam
+B3	P3	Dipinjam
+B4	P4	Dipinjam
+B5	P5	Dipinjam
+B6	P6	Dipinjam
+B7	P7	Dipinjam
+B8	P8	Dipinjam
+B9	P9	Dipinjam
+
+
+Data Dummy Non-Relasi
+Data Buku Non-Relasi:
+B10 - Laskar Pelangi, Andrea Hirata, Tersedia
+B11 - Sang Pemimpi, Andrea Hirata, Tersedia
+B12 - Ayah, Andrea Hirata, Tersedia
+
+Data Peminjam Non-Relasi:
+P10 - Dimas, 2022-10-01 s/d 2022-11-15
+P11 - Sofwan, 2022-11-01 s/d 2022-12-15
+P12 - Faizal, 2022-12-01 s/d 2023-01-15
+
+Data yang Belum di Masukan :
+Data Buku :
+B13 - Cinta Brontosaurus, Raditya Dika, Tersedia
+B14 - Kambing Jantan, Raditya Dika, Tersedia
+B15 - Manusia Setengah Salom, Raditya Dika, Tersedia
+
+Data Peminjam :
+P13 - Rvan, 2022-11-11 s/d 2022-12-12
+P14 - Faqih, 2023-01-01 s/d 2022-02-02
+P15 - Haiko, 2022-03-03 s/d 2022-04-04
+
